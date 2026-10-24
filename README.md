@@ -1,5 +1,3 @@
-# CODSOFT_TASK3
-Customer churn prediction using Logistic Regression, Random Forest and Gradient Boosting on 10,000 bank customers. CodSoft ML Internship Task 3.
 # Customer Churn Prediction (CodSoft ML Internship - Task 3)
 
 A machine learning project that predicts whether a bank customer will **leave the bank (churn)** or stay,
